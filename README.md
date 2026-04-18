@@ -37,7 +37,7 @@ Check Docker version:
 docker --version
 🧑‍💻 Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/docker-flask-project.git
+git clone https://github.com/EliteZain657/Rhombixtechnologies_Task-2.git
 cd docker-flask-project
 2️⃣ Build Docker Image
 docker build -t flask-docker-app .
